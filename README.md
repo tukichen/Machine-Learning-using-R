@@ -1,2 +1,2 @@
 # Machine Learning using R
-a collection of R codes for machine learning
+This project includes collection of R codes for machine learning.
